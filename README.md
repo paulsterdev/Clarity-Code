@@ -1,5 +1,6 @@
 <h1 align=center>
-<img src ="https://raw.githubusercontent.com/paulster-dev/clarity-code/main/images/icon.png">
+<img src ="images/icon.png">
+<br>
 Clarity Code
 </h1>
 
@@ -10,5 +11,5 @@ Different code elements are colored naturally for optimal readability.
 </h2>
 
 <h1 align = center>
-(!screenshot[https://github.com/paulsterdev/Clarity-Code/blob/main/images/showcase.png)]
+<img src ="images/showcase.png">
 </h1>
