@@ -3,9 +3,14 @@
   "displayName": "Clarity Code",
   "description": "A color theme to make syntax highlighting make sense",
   "version": "1.0.0",
+  "publisher": "paulsterdev",
   "engines": {
     "vscode": "^1.100.0"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/paulsterdev/Clarity-Code.git"
+	},
   "categories": [
     "Themes"
   ],
@@ -15,10 +20,6 @@
 		"theme": "dark"
 	},
 	"homepage": "https://github.com/paulsterdev/Clarity-Code",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/paulsterdev/Clarity-Code.git"
-	},
   "contributes": {
     "themes": [
       {
