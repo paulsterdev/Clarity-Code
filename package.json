@@ -2,13 +2,23 @@
   "name": "clarity-code",
   "displayName": "Clarity Code",
   "description": "A color theme to make syntax highlighting make sense",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.100.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+	"galleryBanner": {
+		"color": "#141519",
+		"theme": "dark"
+	},
+	"homepage": "https://github.com/paulsterdev/Clarity-Code",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/paulsterdev/Clarity-Code.git"
+	},
   "contributes": {
     "themes": [
       {
