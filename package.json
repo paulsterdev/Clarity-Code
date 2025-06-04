@@ -1,0 +1,21 @@
+{
+  "name": "clarity-code",
+  "displayName": "Clarity Code",
+  "description": "A color theme to make syntax highlighting make sense",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Clarity Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Clarity Code-color-theme.json"
+      }
+    ]
+  }
+}
